@@ -1,3 +1,6 @@
+"use client";
+
+
 import { personalData } from "@/utils/data/personal-data";
 import AboutSection from "./components/homepage/about";
 
