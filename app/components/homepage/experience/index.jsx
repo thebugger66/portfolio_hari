@@ -1,5 +1,5 @@
 // @flow strict
-
+"use client";
 import { experiences } from "@/utils/data/experience";
 import Image from "next/image";
 import { BsPersonWorkspace } from "react-icons/bs";
@@ -22,7 +22,7 @@ function Experience() {
         <div className="flex  items-center">
           <span className="w-24 h-[2px] bg-[#1a1443]"></span>
           <span className="bg-[#1a1443] w-fit text-white p-2 px-5 text-xl rounded-md">
-            Experiences
+            Experiences & Achievements
           </span>
           <span className="w-24 h-[2px] bg-[#1a1443]"></span>
         </div>
