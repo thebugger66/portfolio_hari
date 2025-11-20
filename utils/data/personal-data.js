@@ -12,5 +12,6 @@ export const personalData = {
   twitter: 'https://x.com/TakleHari9791',
 
   devUsername: "thebugger66",
-  resume: "https://acrobat.adobe.com/id/urn:aaid:sc:AP:09b64268-1975-42fc-a113-253a8194b60d"
+  resume: "https://acrobat.adobe.com/id/urn:aaid:sc:ap:922cf036-881a-43de-a284-43941d597b3c"
 }
+
